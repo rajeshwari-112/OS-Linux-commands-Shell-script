@@ -1,4 +1,4 @@
-### OOS-Linux-commands-Shell-script
+### OS-Linux-commands-Shell-script
 # Linux commands-Shell scripting
  Linux commands-Shell scripting
 
